@@ -1,6 +1,4 @@
-# ShareShelf - Hyperlocal Lending Platform
 
-A full-stack MERN application that enables neighbors to share tools, equipment, and other items within their community. Users can list items they own, browse items from others, and manage borrow requests with a trust score system.
 
 ## 🎯 Features
 
